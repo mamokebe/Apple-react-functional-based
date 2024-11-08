@@ -41,4 +41,7 @@ To access in your components:
 - const port = import.meta.env.VITE_PORT
 - const apiKey = import.meta.env.VITE_API_KEY
 - const channelId = import.meta.env.VITE_CHANNEL_ID
+
+Note: don't forget to create your api key and youTube channel ID  of apple youtube from the [google cloud] (https://console.cloud.google.com/projectselector2/apis/dashboard?supportedpurview=project).
+  
   
