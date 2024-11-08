@@ -16,14 +16,16 @@ so anyone can have access to Apple's youTube channel straight from the website.
 [Website](https://console.cloud.google.com/projectselector2/apis/dashboard?supportedpurview=project)
 
 # Requirements
--Vscode
--Node
--Nodemon
+- Vscode
+- Node
+- Nodemon
 # Setup
 
 * clone to computer using:
 
-- run npm install from inside the backend directory and  frontend directory.
+  https://github.com/mamokebe/Apple-react-functional-based.git
+
+run npm install from inside the backend directory and  frontend directory.
 
 - cd backend:  npm i
 - cd ../frontend: npm i
