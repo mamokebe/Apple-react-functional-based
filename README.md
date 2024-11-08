@@ -29,3 +29,13 @@ run npm install from inside the backend directory and  frontend directory.
 
 - cd backend:  npm i
 - cd ../frontend: npm i
+  
+Create a .env file in the backend and frontend directory and create server port number, api key and channel id.
+- VITE_PORT = <your_server_port_number>
+- VITE_APP_API_KEY=<your_youTube_api_key>
+- VITE_APP_CHANNEL_ID=<your_channel_id>
+To access in your components:
+- const port = import.meta.env.VITE_PORT
+- const apiKey = import.meta.env.VITE_API_KEY
+- const channelId = import.meta.env.VITE_CHANNEL_ID
+  
