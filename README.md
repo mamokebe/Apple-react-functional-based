@@ -21,7 +21,7 @@ so anyone can have access to Apple's youTube channel straight from the website.
 - Nodemon
 # Setup
 
-* clone to computer using:
+clone to computer using:
 
   https://github.com/mamokebe/Apple-react-functional-based.git
 
