@@ -15,6 +15,10 @@ so anyone can have access to Apple's youTube channel straight from the website.
 - youtube API  from Google Cloud 
 [Website](https://console.cloud.google.com/projectselector2/apis/dashboard?supportedpurview=project)
 
+# Build Status
+
+live: [Here](https://jolly-axolotl-3a8837.netlify.app/) on Netflix
+
 # Requirements
 - Vscode
 - Node
