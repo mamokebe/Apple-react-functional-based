@@ -1,6 +1,7 @@
 # Apple clone by React JS
 
-This project contains backend, Frontend and API (youtube API) that is built using React.js + vite and Node.js 
+This project contains backend, Frontend and API (youtube API) that is built using React.js + vite and Node.js.
+
 For the backend, I used Express for my server and MySql for my database. My API is serving the iphone page from the database.
 
 For the frontend, I added some current apple youtube to the website by using a third party API from Google Cloud,
