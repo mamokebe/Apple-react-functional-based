@@ -21,8 +21,9 @@ so anyone can have access to Apple's youTube channel straight from the website.
 live: [Here](https://jolly-axolotl-3a8837.netlify.app/) on Netflix
 
 # Requirements
-- Vscode
+- VScode
 - Node
+- dotenv
 - Nodemon
 # Setup
 
