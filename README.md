@@ -18,7 +18,7 @@ so anyone can have access to Apple's youTube channel straight from the website.
 
 # Build Status
 
-live: [Here](https://jolly-axolotl-3a8837.netlify.app/) on Netflix
+live: [Here](https://jolly-axolotl-3a8837.netlify.app/) on Netlify
 
 # Requirements
 - VScode
