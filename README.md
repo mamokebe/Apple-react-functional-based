@@ -27,7 +27,7 @@ live: [Here](https://jolly-axolotl-3a8837.netlify.app/) on Netlify
 - Nodemon
 # Setup
 
-clone to computer using:
+If you want clone to local computer use:
 
   https://github.com/mamokebe/Apple-react-functional-based.git
 
