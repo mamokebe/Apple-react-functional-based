@@ -1,4 +1,4 @@
-# Apple clone by React JS
+# Apple clone by React.js
 
 This project contains backend, Frontend and API (youtube API) that is built using React.js + vite and Node.js.
 
